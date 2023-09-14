@@ -1,0 +1,42 @@
+.contAdv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 100%;
+  margin: 5rem 0px;
+  padding: 0 3rem;
+}
+
+.contAdv > h1 {
+  font-size: 1.4rem;
+  font-weight: bolder;
+  color: red;
+}
+
+.terce-img {
+  width: 25rem;
+  height: 15rem;
+  margin-bottom: -5rem;
+}
+
+.container-vant {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.container-vant > h2 {
+  margin: 1rem 0 0rem 0rem;
+}
+
+.container-vant > p {
+  margin: 0 0 0 2rem;
+}
+
+@media (max-width: 768px) {
+  .contAdv {
+    width: 768px;
+    height: 85rem;
+  }
+}

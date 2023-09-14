@@ -1,5 +1,6 @@
-function App() {
-  return <>test</>;
-}
+import "./Reset.css";
+import { AppRoutes } from "./routes";
 
-export default App;
+export function App() {
+  return <AppRoutes />;
+}
