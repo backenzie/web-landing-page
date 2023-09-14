@@ -1,4 +1,4 @@
-import { BiCopyright } from "react-icons/Bi";
+import { BiCopyright } from "react-icons/bi";
 import { AiOutlineInstagram } from "react-icons/ai";
 import { BsWhatsapp } from "react-icons/bs";
 import { TfiEmail } from "react-icons/tfi";
