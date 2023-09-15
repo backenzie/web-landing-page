@@ -2,7 +2,6 @@
   bottom: 0;
   width: 100%;
   text-align: center;
-  margin-top: 2rem;
 }
 
 .cttft {
@@ -40,6 +39,5 @@
 @media (max-width: 768px) {
   .footer {
     width: 768px;
-    position: fixed;
   }
 }

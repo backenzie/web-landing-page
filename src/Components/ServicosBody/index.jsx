@@ -63,7 +63,7 @@ export const ServicosBody = () => {
           />
         </div>
         <div>
-          <p>Zeladoria e Vigilância</p>
+          <p>Zeladoria</p>
           <img className="im" src={limp} alt="equipe de limpeza" />
           <img
             className="im"
@@ -78,7 +78,7 @@ export const ServicosBody = () => {
           <img className="im" src={portCondo} alt="" />
           <img className="im" src={vigi} alt="homem cuidando das cameras" />
           <img
-            className="im"
+            className="im lastmg"
             src={vigi2}
             alt="homem em pé e ao lado telas de vigilancia"
           />

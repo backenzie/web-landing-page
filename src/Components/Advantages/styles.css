@@ -35,8 +35,7 @@
 }
 
 @media (max-width: 768px) {
-  .contAdv {
-    width: 768px;
-    height: 85rem;
+  .terce-img {
+    margin-bottom: 0;
   }
 }

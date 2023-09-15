@@ -66,9 +66,3 @@ h2 {
   height: 22rem;
   border-radius: 8px;
 }
-
-@media (max-width: 766px) {
-  .container {
-    width: 766px;
-  }
-}
