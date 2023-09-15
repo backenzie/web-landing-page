@@ -39,5 +39,6 @@
 @media (max-width: 768px) {
   .footer {
     width: 768px;
+    margin-top: 5rem;
   }
 }
